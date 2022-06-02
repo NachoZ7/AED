@@ -1,0 +1,3 @@
+[Running] cd "c:\Users\Usuario\Desktop\UTN\2022\Algoritmo y Est. de Datos\DD-EjemplosTipos\" && g++ 01-ejemplostipos.cpp -o 01-ejemplostipos && "c:\Users\Usuario\Desktop\UTN\2022\Algoritmo y Est. de Datos\DD-EjemplosTipos\"01-ejemplostipos
+Todo perfecto :)
+[Done] exited with code=0 in 1.035 seconds
