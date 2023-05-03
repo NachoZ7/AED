@@ -1,4 +1,4 @@
-# Algoritmo y Estructura de Datos 
+# Algoritmos y Estructuras de Datos 
 
 + Nombre y Apellido: Martin Ignacio Gonzalez Lopez
 + Comision: K1051
