@@ -1,3 +1,4 @@
- # Version del compilador utilizado
+ # Version del compilador utilizado:
  + MinGW 11.3.0
- + Entorno de desarrollo utilizado: VSCode
+ # Editor de codigo:
+ + VSCode
